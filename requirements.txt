@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+transformers
+sentence-transformers
+datasets
+faiss-cpu
+keybert
+bertopic
+spacy
+sentencepiece
+accelerate
